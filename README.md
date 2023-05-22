@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 🤝 Connect with me:
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" width="100"/>
 </div>
 
