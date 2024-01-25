@@ -4,7 +4,6 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-
 🚀 Hello World! I'm Prashant Sharma👋
 
     🌱 Learning the art of shaping the virtual realm with a blend of Frontend and Backend sorcery 💻✨
@@ -19,7 +18,7 @@ Tech Explorer 🌐
 
 🧠 Code Wizardry:
 
-    Competitive Programming: LeetCode Profile | Solving algorithmic puzzles for fun and sharpening my coding skills 🏆🚀
+    Competitive Programming: [LeetCode Profile](https://leetcode.com/yourusername) | Solving algorithmic puzzles for fun and sharpening my coding skills 🏆🚀
     Data Structures & Algorithms: Mastering the art of problem-solving, creating elegant solutions that stand the test of complexity 🧠🛠️
 
 🛠️ Tech Stack:
@@ -35,12 +34,8 @@ Tech Explorer 🌐
 
 🌐 Connect with Me:
 
-    LinkedIn(https://www.linkedin.com/in/prashant-sharma-ab9b0a209/)
-
+    [LinkedIn](https://www.linkedin.com/in/prashant-sharma-ab9b0a209/)
     
-    Portfolio(https://portfolio-seven-rouge-73.vercel.app/)
+    [Portfolio](https://portfolio-seven-rouge-73.vercel.app/)
 
 🚀 Let's code the future together! 🌌✨
-
-
-
