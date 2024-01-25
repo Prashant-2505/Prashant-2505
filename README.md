@@ -18,7 +18,7 @@ Tech Explorer 🌐
 
 🧠 Code Wizardry:
 
-    Competitive Programming: [LeetCode Profile](https://leetcode.com/yourusername) | Solving algorithmic puzzles for fun and sharpening my coding skills 🏆🚀
+    Competitive Programming:  Solving algorithmic puzzles for fun and sharpening my coding skills 🏆🚀
     Data Structures & Algorithms: Mastering the art of problem-solving, creating elegant solutions that stand the test of complexity 🧠🛠️
 
 🛠️ Tech Stack:
