@@ -5,11 +5,42 @@
 </div>
 
 
+🚀 Hello World! I'm Prashant Sharma👋
 
-- 🔭 I’m currently working on Travellers one of the my personal project
-- 🌱 I’m currently learning Frontend + Backend 
+    🌱 Learning the art of shaping the virtual realm with a blend of Frontend and Backend sorcery 💻✨
+    💡 Competitive programmer solving puzzles on LeetCode | Master of Data Structures & Algorithms 🏆🧠
+    🚀 Exploring new horizons in the ever-expanding tech universe.
 
-🤝 Connect with me:
+Tech Explorer 🌐 
+💼 Current Endeavors:
+
+    Learning: Frontend + Backend Alchemy 🧪🚀
+        Unraveling the mysteries of both worlds to create seamless and enchanting digital landscapes.
+
+🧠 Code Wizardry:
+
+    Competitive Programming: LeetCode Profile | Solving algorithmic puzzles for fun and sharpening my coding skills 🏆🚀
+    Data Structures & Algorithms: Mastering the art of problem-solving, creating elegant solutions that stand the test of complexity 🧠🛠️
+
+🛠️ Tech Stack:
+
+    Frontend: HTML | CSS | JavaScript | React js | Next js
+    Backend: Node.js | Express | MongoDB
+    Magic Ingredients: Git | VS Code | Canva
+
+📚 Lifelong Learner:
+
+    Constantly diving into the sea of knowledge, seeking to evolve and innovate.
+    Embracing the exhilarating challenges of technology and design.
+
+🌐 Connect with Me:
+
+    LinkedIn(https://www.linkedin.com/in/prashant-sharma-ab9b0a209/)
+
+    
+    Portfolio(https://portfolio-seven-rouge-73.vercel.app/)
+
+🚀 Let's code the future together! 🌌✨
 
 
 
