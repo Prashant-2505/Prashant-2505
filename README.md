@@ -2,6 +2,7 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+ 
 </div>
 
 🚀 Hello World! I'm Prashant Sharma👋
@@ -34,8 +35,17 @@ Tech Explorer 🌐
 
 🌐 Connect with Me:
 
-    [LinkedIn](https://www.linkedin.com/in/prashant-sharma-ab9b0a209/)
+  <div id="header" align="center">
+ 
+  <a href="https://www.linkedin.com/in/prashant-sharma-ab9b0a209/" target="_blank">
+    Linkedin
+  </a>
+  <a href="https://portfolio-seven-rouge-73.vercel.app/" target="_blank">
+    Portfolio
+  </a>
+</div>
+
     
-    [Portfolio](https://portfolio-seven-rouge-73.vercel.app/)
+
 
 🚀 Let's code the future together! 🌌✨
