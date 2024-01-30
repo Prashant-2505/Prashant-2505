@@ -37,12 +37,16 @@ Tech Explorer 🌐
 
   <div id="header" align="center">
  
-  <a href="https://www.linkedin.com/in/prashant-sharma-ab9b0a209/" target="_blank">
+  <p>
+    <a href="https://www.linkedin.com/in/prashant-sharma-ab9b0a209/" target="_blank">
     Linkedin
   </a>
-  <a href="https://portfolio-seven-rouge-73.vercel.app/" target="_blank">
+  </p>
+ <p>
+    <a href="https://portfolio-seven-rouge-73.vercel.app/" target="_blank">
     Portfolio
   </a>
+ </p>
 </div>
 
     
