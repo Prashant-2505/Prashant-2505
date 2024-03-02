@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Portfolio-%23orange.svg?style=for-the-badge&logoColor="orange" alt="Portfolio" style="margin-bottom: 5px;" />
 </a>
 <a href="https://leetcode.com/prashant_71200/" style="background: "yellow";" target="_blank">
-    <img src="https://img.shields.io/badge/Leetcode-orange alt="Leetcode" style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/Leetcode-blue alt="Leetcode" style="margin-bottom: 5px;" />
 </a>
 
   
