@@ -41,7 +41,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 </td><td valign="top" width="50%">
 
 <div align="center">
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><img src="https://giphy.com/embed/WoEUKzmKhBp8GcwW8r" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img></div><p><a href="https://giphy.com/gifs/CityBoiscph-june-juneverse-juneisaband-WoEUKzmKhBp8GcwW8r">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3g3eXd3c3oydmU4bGI3MWczOWF4bG5jNjM4MmdueHVheG81MHNxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WoEUKzmKhBp8GcwW8r/giphy.gif"/>
 </div>  
 
 
