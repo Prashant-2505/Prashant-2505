@@ -10,11 +10,13 @@
 <a href="https://github.com/https://github.com/Prashant-2505" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a> 
+
+
 <a href="https://portfolio2-kappa-six.vercel.app/" target="_blank">
-<img src=https://img.shields.io/badge/&style=for-the-badge&logo=linkedin&logoColor=orange alt=portfolio style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/Portfolio-%23orange.svg?style=for-the-badge&logoColor=white" alt="Portfolio" style="margin-bottom: 5px;" />
 </a>
-<a href="https://portfolio2-kappa-six.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23orange.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Portfolio" style="margin-bottom: 5px;" />
+<a href="https://leetcode.com/prashant_71200/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23orange.svg?style=for-the-badge&logoColor=yellow" alt="Leecode" style="margin-bottom: 5px;" />
 </a>
 
   
