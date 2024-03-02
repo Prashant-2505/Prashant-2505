@@ -13,10 +13,10 @@
 
 
 <a href="https://portfolio2-kappa-six.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23orange.svg?style=for-the-badge&logoColor=white" alt="Portfolio" style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/Portfolio-%23orange.svg?style=for-the-badge&logoColor="orange" alt="Portfolio" style="margin-bottom: 5px;" />
 </a>
 <a href="https://leetcode.com/prashant_71200/" style="background: "yellow";" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23orange.svg?style=for-the-badge&logoColor=yellow" alt="Leetcode" style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/Leetcode%23orange.svg?style=for-the-badge&logoColor="yellow" alt="Leetcode" style="margin-bottom: 5px;" />
 </a>
 
   
