@@ -1,62 +1,84 @@
-## Hey 👋, I'm Prashant Sharma!  
-  
+### Hi there 👋
 
 
 
-### Web Developer  
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/prashant-sharma-ab9b0a209/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/https://github.com/Prashant-2505" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a> 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+ 
+</div>
 
 
-<a href="https://portfolio2-kappa-six.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23orange.svg?style=for-the-badge alt="Portfolio" style="margin-bottom: 5px;" />
-</a>
-<a href="https://leetcode.com/prashant_71200/" style="background: "yellow";" target="_blank">
-    <img src="https://img.shields.io/badge/Leetcode-blue alt="Leetcode" style="margin-bottom: 5px;" />
-</a>
+<br/>  
 
-  
-
-
-
-### Glad to see you here!  
-I’m a full-stack developer who has 1 years of experience into a web development career. Being a full-stack allows me to not only develop client-facing websites but also develop it with cutting edge backend support.
-
-I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective.  
+![Profile views counter](https://komarev.com/ghpvc/?username=Prashant-2505&&style=flat-square)  
   
 
 <br/>  
 
 
-## Rapidfire  
+🚀 Hello World! I'm Prashant Sharma👋
+
+    🌱 Learning the art of shaping the virtual realm with a blend of Frontend and Backend sorcery 💻✨
+    💡 Competitive programmer solving puzzles on LeetCode | Master of Data Structures & Algorithms 🏆🧠
+    🚀 Exploring new horizons in the ever-expanding tech universe.
+
+Tech Explorer 🌐 
+💼 Current Endeavors:
+
+    Learning: Frontend + Backend Alchemy 🧪🚀
+        Unraveling the mysteries of both worlds to create seamless and enchanting digital landscapes.
+
+🧠 Code Wizardry:
+
+    Competitive Programming:  Solving algorithmic puzzles for fun and sharpening my coding skills 🏆🚀
+    Data Structures & Algorithms: Mastering the art of problem-solving, creating elegant solutions that stand the test of complexity 🧠🛠️
+
+🛠️ Tech Stack:
+
+    Frontend: HTML | CSS | JavaScript | React js | Next js
+    Backend: Node.js | Express | MongoDB
+    Magic Ingredients: Git | VS Code | Canva
+
+📚 Lifelong Learner:
+
+    Constantly diving into the sea of knowledge, seeking to evolve and innovate.
+    Embracing the exhilarating challenges of technology and design.
+
+🌐 Connect with Me:
+
+  <div id="header" align="center">
+ 
+  <p>
+    <a href="https://www.linkedin.com/in/prashant-sharma-ab9b0a209/" target="_blank">
+    Linkedin
+  </a>
+  </p>
+ <p>
+    <a href="https://portfolio-seven-rouge-73.vercel.app/" target="_blank">
+    Portfolio
+  </a>
+ </p>
+</div>
+
+    
+
+
+🚀 Let's code the future together! 🌌✨
+
+
+## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on (https://github.com/Prashant-2505/codebuds)  
-  
-
-- 🌱 I’m currently learning Next js and WRTC  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I keep night shift swithed on at all times   
-
+<img src="https://github-readme-stats.vercel.app/api?username=Prashant-2505&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3g3eXd3c3oydmU4bGI3MWczOWF4bG5jNjM4MmdueHVheG81MHNxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WoEUKzmKhBp8GcwW8r/giphy.gif"/>
-</div>  
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant-2505&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
-<br/>  
+<br/> 
+
 
 
 ## Languages and Tools  
@@ -82,35 +104,3 @@ I specialize in building robust backends that do all the heavy lifting for your 
 </div>  
 
 <br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Prashant-2505&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant-2505&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=Prashant-2505&&style=flat-square)  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
